@@ -55,19 +55,19 @@ Built with **C++**, **SFML**, and **Box2D**, this project showcases advanced obj
 ## 🎮 Gameplay Screenshots
 
 ### 🧩 Main Menu  
-![Main Menu](oop2_project/resources/textures/Menu.png)
+![Main Menu](resources/textures/Menu.png)
 
 ### 🌍 Level Select  
-![Levels](oop2_project/resources/textures/Levels.png)
+![Levels](resources/textures/Levels.png)
 
 ### ⚔️ In-Game Combat 1  
-![Gameplay](oop2_project/resources/textures/Game.png)
+![Gameplay](resources/textures/Game.png)
 
 ### 🛡️ Combat & Healing  
-![Gameplay 2](oop2_project/resources/textures/Game2.png)
+![Gameplay 2](resources/textures/Game2.png)
 
 ### 💰 Coins & Enemies  
-![Gameplay 3](oop2_project/resources/textures/Game3.png)
+![Gameplay 3](resources/textures/Game3.png)
 
 ---
 
