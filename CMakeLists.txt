@@ -1,6 +1,6 @@
 cmake_minimum_required (VERSION 3.26)
 
-project (oop2_ex04)
+project (oop2_project)
 set (MY_AUTHORS "Musa_AbuAlia-Ellen_Habash")
 
 include (cmake/CompilerSettings.cmake)
