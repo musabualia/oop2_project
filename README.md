@@ -55,7 +55,7 @@ Built with **C++**, **SFML**, and **Box2D**, this project showcases advanced obj
 ## 🎮 Gameplay Screenshots
 
 ### 🧩 Main Menu  
-![Main Menu](resources/textures/Menu.png)
+![Main Menu](resources/textures/Menu2.png)
 
 ### 🌍 Level Select  
 ![Levels](resources/textures/Levels.png)
