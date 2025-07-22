@@ -66,9 +66,6 @@ Built with **C++**, **SFML**, and **Box2D**, this project showcases advanced obj
 ### 🛡️ Combat & Healing  
 ![Gameplay 2](resources/textures/Game2.png)
 
-### 💰 Coins & Enemies  
-![Gameplay 3](resources/textures/Game3.png)
-
 ---
 
 ## 🧠 Architecture Overview
