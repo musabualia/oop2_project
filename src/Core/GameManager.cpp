@@ -1,5 +1,5 @@
 ﻿// ================================
-// Game Manager - Central Controller for Game State and Entity Management
+// Game Manager - Central Controller for Game State and Entity Management 
 // ================================
 #include "Core/GameManager.h"
 #include "Factories/SquadMemberFactory.h"
